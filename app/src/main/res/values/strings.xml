@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DoYouFeelIt2</string>
+
+        <!-- Name of the app [CHAR LIMIT=20] -->
+
+
+        <!-- Label for perceived strength value [CHAR LIMIT=40] -->
+        <string name="perceived_strength">Perceived Strength</string>
+
+        <!-- Number of people who reported perceived strength for an earthquake [CHAR LIMIT=NONE] -->
+        <string name="num_people_felt_it"><g id="number" example="10">%s</g> people felt it</string>
+
+</resources>
